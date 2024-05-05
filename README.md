@@ -8,3 +8,9 @@ It also generates a histogram of the pixel intensities and performs contrast str
 
 ### HW2: Resizing
 This project deals with image resizing operations such as nearest neighbor sampling and bi-linear interpolation. 
+
+### HW3: Canny Edge Detection
+This project deals with the Canny Edge Detection pipeline. Implementation includes Guassian Smoothing, Gradients Computation, Non-maximum suppression and hystersis. 
+
+### HW4: Seam Carving
+This project deals with Seam Carving. Implementation includes Energy Function, Optimal Seam, Seam Removal. 

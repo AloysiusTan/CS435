@@ -20,3 +20,6 @@ This project deals with Parametric Shape Detection. Implementation includes Gene
 
 ### HW6: Classification
 This project deals with Image Classification. Implementation includes K-NN on Grayscale histograms and K-NN on Gists. 
+
+### Final Project: Scanner App
+This project deals with building the Scanner pipeline. Implementation includes Edge Detection, Hough Transform, Line Selection anbd Intersections and Rectification. 

@@ -14,3 +14,9 @@ This project deals with the Canny Edge Detection pipeline. Implementation includ
 
 ### HW4: Seam Carving
 This project deals with Seam Carving. Implementation includes Energy Function, Optimal Seam, Seam Removal. 
+
+### HW5: Parametric Shapes
+This project deals with Parametric Shape Detection. Implementation includes Generating Fake Data, Hough Transform (Line and Circle) and Applying Hough Transform (Circle) algorithm to actual image. 
+
+### HW6: Classification
+This project deals with Image Classification. Implementation includes K-NN on Grayscale histograms and K-NN on Gists. 
